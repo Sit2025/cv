@@ -1,0 +1,100 @@
+body {
+    background-color: #F0F0F0;
+}
+
+                /* header */
+
+#header-text1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#header-text2 {
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 15px;
+}
+
+/* Resume */
+
+#resumetitle h1 {
+    font-weight: 700;
+    font-size: 43px;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+/* Education */
+
+#title h1 {
+    font-size: 29px;
+    font-weight: 900;
+}
+
+#education div div p {
+    font-size: 15px;
+}
+
+#education div div h3 {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+#education div div h5 {
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+}
+
+/* Skills */
+
+#skills div ul li {
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+/* Language */
+
+#language div ul li {
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+/* COURSES */
+
+#courses div div p {
+    font-size: 15px;
+}
+
+#courses div div h3 {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+/* HOBBIES */
+
+#hobbies div ul li {
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+/* EXTRACURRICULAM ACTIVITIES */
+
+#extraact h1 {
+    font-size: 29px;
+    font-weight: 900;
+}
+
+#extraact h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: gray;
+}
+
+#extraact p {
+    font-size: 20px;
+}
+
